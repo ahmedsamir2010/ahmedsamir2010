@@ -37,6 +37,17 @@
 - 🧑‍🏫 Share knowledge and tutorials on productivity and automation tools
 
 ---
+### 🧩 Featured Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| **Sales Dashboard - Power BI** | Interactive dashboard to track monthly sales, top products, and region performance | [View Report](https://app.powerbi.com/view?r=EXAMPLE_LINK) |
+| **Google Sheets Automation** | Automated data entry system using Google Apps Script for a logistics company | [GitHub](https://github.com/yourusername/google-sheets-automation) |
+| **Customer Segmentation** | SQL + Power BI project to cluster customers based on behavior and visualize segments | [Case Study](https://yourwebsite.com/customer-segmentation) |
+| **HR System in MS Access** | Internal tool to manage employee records, attendance, and reports | [Screenshots](https://yourwebsite.com/hr-access-system) |
+| **AI-powered Report Generator** | Used OpenAI + Google Sheets to generate summaries from raw data automatically | [Demo Video](https://youtube.com/yourvideo) |
+
+---
 
 ### 📫 Let's Connect:
 - 🌐 [My Website](https://github.com/ahmedsamir2010) *(replace with your link)*
