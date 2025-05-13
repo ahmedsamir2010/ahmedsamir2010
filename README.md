@@ -8,13 +8,23 @@
 ---
 
 ### 🧰 Tech Stack & Tools I Use:
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA-003B49?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=power-automate&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -30,7 +40,7 @@
 
 ### 📫 Let's Connect:
 - 🌐 [My Website](https://github.com/ahmedsamir2010) *(replace with your link)*
-- 📧 ahmed@example.com *(replace with your email)*
+- 📧 ahmedsamir_2020@outlook.com *(replace with your email)*
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmedsamir0003/) *(optional)*
 
 ---
@@ -39,17 +49,9 @@
   🚀 Always learning. Always building. Always improving.
 </p>
 
-## What if you like my work? 🤩<
+## What if you like my work? 🤩
 
 <ul>
   <li>You can Star ⭐ the repositories you like.</li>
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsamir2010&show_icons=true&locale=en&layout=compact" alt="ahmedsamir2010" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsamir2010&show_icons=true&locale=en" alt="ahmedsamir2010" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsamir2010&" alt="ahmedsamir2010" /></p>
-
-<br/>
