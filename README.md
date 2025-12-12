@@ -21,7 +21,7 @@
 
 🎯 **Data Analyst & Business Intelligence Developer** specializing in Microsoft and Google ecosystems
 
-💡 Passionate about leveraging **automation**, **AI**, and **smart dashboards** to drive business value
+💡 Data Trainer & Content Creator focused on Excel, Power BI.
 
 🚀 Transforming raw data into actionable insights through advanced analytics and custom business solutions
 
